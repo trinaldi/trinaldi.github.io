@@ -14,4 +14,4 @@ Create a simple and yet useable website for my contact.
 
 ## Next steps
 
-~~- Create a blog to include my thoughts. (Brace yourselves.) ~~
+~Create a blog to include my thoughts. (Brace yourselves.)~
